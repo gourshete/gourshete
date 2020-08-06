@@ -12,7 +12,7 @@ I am Swapnil, Ruby on Rails Full stack developer based in India.
 
 - 💬 Ask me about cricket
 
-- 😄 Pronouns: स्वप्नील
+- 😄 Call me: स्वप्नील
 
 - ⚡ Fun fact: ...
 
