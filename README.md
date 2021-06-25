@@ -1,10 +1,10 @@
 ### Hi there 👋, 
 
-I am Swapnil, Ruby on Rails Full stack developer based in India.
+I am Swapnil, Full Stack Engineer with primary experience in Ruby on Rails.
 
-- 🔭 I mostly work on backend stuff with Ruby on Rails
+- 🔭 Working remote, living in India.
 
-- :tada: I sometimes work on front-end with react
+- :tada: Apart from rails I enjoy AWS, Blogging, React, CSS
 
 - 🌱 I’m currently learning Docker, Kubernetes
 
@@ -14,7 +14,7 @@ I am Swapnil, Ruby on Rails Full stack developer based in India.
 
 - 😄 Call me: स्वप्नील
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: searching...
 
 <!--
 **gourshete/gourshete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
