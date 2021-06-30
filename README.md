@@ -2,7 +2,7 @@
 
 I am Swapnil, Full Stack Engineer with primary experience in Ruby on Rails.
 
-- 🔭 Working remote, living in India.
+- 🔭 Working remotely from Maharashtra, India.
 
 - :tada: Apart from rails I enjoy AWS, Blogging, React, CSS
 
